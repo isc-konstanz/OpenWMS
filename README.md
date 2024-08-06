@@ -1,4 +1,4 @@
-## Puma
+## OpenWMS
 
 This repository provides a set of core functions for the ***Open** **W**ater **M**anagement **S**ystem*.
 
